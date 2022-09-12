@@ -1,1 +1,1 @@
-export const serverUrl = "http://localhost:3001";
+export const serverUrl = "https://my-server-hxsqi.ondigitalocean.app";

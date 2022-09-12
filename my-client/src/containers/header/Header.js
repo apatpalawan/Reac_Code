@@ -26,7 +26,7 @@ export default function Header() {
                         paddingTop: 5 
                     }}
                     avatar={{
-                        src: "https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.6435-9/136785002_114546740528710_630719397401111171_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEq-fk1-k3EHPz3E24iB8dUT6TDNpop-rdPpMM2min6tyODwP-qmNFDODqryYfM4oFoCPaDYLDsRSDDkB-RNSsR&_nc_ohc=VAp09pwqD_sAX9OdQv_&_nc_oc=AQnZqpwBgeBuBETDisKUCdRxbCgGKHuxzBmp2Zjwf7VKrH-l9Bs-tvwsiay1gHs1i2s&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT_iFDtqaw8jXKL2COzJ3IjAXp9-dVe2rdj9mHt837dvjQ&oe=6309A8B2"
+                        src: "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/301899831_108854558618037_1763401062116067836_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE6QqRp7ri8xaedrXGohuhPeSH8aMW5DvJ5IfxoxbkO8saHQjiqF8DSyx5EA69MX7NEF5pcMqHAC1NBH5Wcv_kN&_nc_ohc=yWkSFMrPXNYAX-m--4I&_nc_oc=AQnKExzHs9M6XTrfLs4I7oBWS3-4JEbCVACiBiNoCW8BJmBFK_hjrkM5HBvzowBPiGM&_nc_ht=scontent.fbkk5-4.fna&oh=00_AT8mSHf00Oksjrdrx4QzhsDcSUsbp-6DHPvTsby_7RUbNw&oe=63135F9A"
                     }}
                 />
             </nav>
