@@ -1,6 +1,6 @@
 import { Col, Row, Card } from "antd";
 import { useNavigate } from "react-router-dom";
-import "./Cards.css";
+import "./Card.css";
 
 const { Meta } = Card;
 
@@ -70,6 +70,7 @@ export default function Cards(props) {
         );
     }
 
+    console.log("data : ", props.data);
     return (
         <div>
             {props.isShowSingle ?

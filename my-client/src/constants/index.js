@@ -1,1 +1,0 @@
-export const serverUrl = "https://my-server-hxsqi.ondigitalocean.app";

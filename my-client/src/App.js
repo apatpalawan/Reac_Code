@@ -1,9 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import About from "./componenrs/about/About";
-import Home from "./componenrs/home/Home";
-import Store from "./componenrs/store/Store";
+
+import About from "./components/about/About";
+import Home from "./components/home/Home";
+import Store from "./components/store/Store";
+
 import './App.css';
+
 export default function App() {
   return (
     <Router>
